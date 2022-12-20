@@ -1,5 +1,5 @@
 const todos = () => {
-    fetch('../todos.json')
+    fetch('./todos.json')
     .then((response) => response.json())
     .then((data) => {
         console.log(data.todos.map((data) => data));
