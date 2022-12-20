@@ -1,0 +1,29 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Köpa ägg",
+            "completed": true
+        },
+        {
+            "id": 2,
+            "title": "Köpa mjölk",
+            "completed": true
+        },
+        {
+            "id": 3,
+            "title": "Köpa chips",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "title": "Köpa julmust",
+            "completed": true
+        },
+        {
+            "id": 5,
+            "title": "Köpa bullar",
+            "completed": false
+        }
+    ]
+}
